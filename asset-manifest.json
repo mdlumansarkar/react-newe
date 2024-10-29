@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-newe/static/css/main.c76de836.css",
+    "main.js": "/react-newe/static/js/main.95e2ff9f.js",
+    "index.html": "/react-newe/index.html",
+    "main.c76de836.css.map": "/react-newe/static/css/main.c76de836.css.map",
+    "main.95e2ff9f.js.map": "/react-newe/static/js/main.95e2ff9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76de836.css",
+    "static/js/main.95e2ff9f.js"
+  ]
+}
